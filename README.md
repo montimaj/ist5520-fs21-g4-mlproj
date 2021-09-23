@@ -43,7 +43,7 @@ IST 5520 Data Science and ML in Python project
 
 •	All group members have joined the repository
 
-•	Use the repository to manage all your project documents including meeting schedules, meeting minutes, and the proposal (the instructor should be invited to verify this)
+•	Use the repository to manage all your project documents including meeting schedules, meeting minutes, and the proposal
 
 •The project proposal should include two sections: 
 
